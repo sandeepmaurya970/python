@@ -1,4 +1,4 @@
-x=int(input("Enter a number"))
+x=int(input("Enter a number "))
 c=0
 sum=0
 for i in range(1,x+1):
@@ -6,7 +6,7 @@ for i in range(1,x+1):
 		if(i%2==0):
 			print(i)
 			sum=sum+i
-print("the sum of all even factor are=",sum)
+print("the sum of all even factor are= ",sum)
 
 
 input()
