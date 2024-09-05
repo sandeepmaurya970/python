@@ -9,7 +9,4 @@ else:
 	print("Please Enter your name in Three words")
 
 
-
-
-
 input()
